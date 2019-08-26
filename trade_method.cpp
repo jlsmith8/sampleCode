@@ -4,8 +4,8 @@ Course: CSE703
 Assignment Type: Project
 Assignment Name: 30 Day Moving Average Calculation
 
-Description: This program reads in the closing stock prices for from the dates of
-Jan-1-2015 through April-2-2916. After reading in the prices, the 30 day moving average
+Description: This program reads in the closing stock prices for the dates of
+Jan-1-2015 through April-2-2016. After reading in the prices, the 30 day moving average
 is calculated. The 30 day moving average and corresponding current stock price for that
 time frame are written to an output file which will be used within MATLAB to display the
 technical graphs of the stock prices over time.
